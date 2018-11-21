@@ -19,6 +19,9 @@
   "homepage": "https://github.com/LogicalOgbonna/node-api#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "loadash": "^1.0.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.13",
     "nodemon": "^1.18.6"
   }
 }

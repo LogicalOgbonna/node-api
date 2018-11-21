@@ -3,8 +3,8 @@ const express = require('express');
 const app = express();
 
 app.get('/', (res, req) => {
-    req.status(200).send("Hello world!");
-})
+    req.status(200).send({Hello: "world!"});
+});
 
 
 
