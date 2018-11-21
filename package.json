@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "A simple node api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogicalOgbonna/node-api.git"
+  },
+  "author": "Ogbonna Arinze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LogicalOgbonna/node-api/issues"
+  },
+  "homepage": "https://github.com/LogicalOgbonna/node-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
